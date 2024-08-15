@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nishant-singh-rawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-singh-rawal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nishant-singh-rawal-808854236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-singh-rawal" height="30" width="40" /></a>
 <a href="https://instagram.com/nishant_s_rawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishant_s_rawal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nishantrawal2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishantrawal2023" height="30" width="40" /></a>
 </p>
